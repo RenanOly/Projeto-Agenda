@@ -1,0 +1,10 @@
+C:\Users\Renan\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Renan\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Renan\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Renan\source\repos\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\Renan\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\Renan\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\Renan\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\Renan\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\Renan\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\Renan\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form2.resources
